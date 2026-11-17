@@ -198,7 +198,7 @@ function hearVolume() {
   volT = now;
   playSound('complete', resolveSoundStyle('complete', snd.value.styles?.complete));
 }
-const ACCENTS = ['#ff6b1a', '#f5b23a', '#38d6ff', '#3dd68c', '#8b6cff', '#ff3d7f'];
+const ACCENTS = ['#ff6b1a', '#f5b23a', '#38d6ff', '#3dd68c', '#76fb00', '#8b6cff', '#ff3d7f'];
 const heaters = computed(() => S('heaters').available_heaters || []);
 function addPreset() {
   state.settings.presets.push({
