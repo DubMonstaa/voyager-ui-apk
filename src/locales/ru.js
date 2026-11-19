@@ -2693,4 +2693,12 @@ export default {
   "Print info size (under the clock)": "Размер сведений о печати (под часами)",
   "Own dashboard layout": "Собственная раскладка панели",
   "This device arranges the dashboard cards its own way, for example a tablet next to the printer. Other browsers keep the shared layout. Only this browser.": "Это устройство располагает карточки панели по-своему, например планшет рядом с принтером. Другие браузеры сохраняют общую раскладку. Только этот браузер.",
+  "Every printer in your printer list in one file, each with its own settings and dashboard layouts. Restore it with Restore from file.": "Все принтеры из вашего списка в одном файле, каждый со своими настройками и раскладками панели. Восстановите его кнопкой «Восстановить из файла».",
+  "Back up all printers": "Резервная копия всех принтеров",
+  "Could not reach: {list}": "Недоступны: {list}",
+  "Printers restored: {n}": "Восстановлено принтеров: {n}",
+  "Restore all printers?": "Восстановить все принтеры?",
+  "Printers in {name}:": "Принтеры в {name}:",
+  "not in your printer list": "нет в вашем списке принтеров",
+  "Each printer gets back its own settings and layouts. Its current settings are kept so you can go back on it.": "Каждый принтер получает обратно свои настройки и раскладки. Его текущие настройки сохраняются, чтобы к ним можно было вернуться.",
 }

@@ -2693,4 +2693,12 @@ export default {
   "Print info size (under the clock)": "출력 정보 크기 (시계 아래)",
   "Own dashboard layout": "이 기기 전용 대시보드 레이아웃",
   "This device arranges the dashboard cards its own way, for example a tablet next to the printer. Other browsers keep the shared layout. Only this browser.": "이 기기는 대시보드 카드를 자체 방식으로 배치합니다(예: 프린터 옆 태블릿). 다른 브라우저는 공유 레이아웃을 유지합니다. 이 브라우저만 해당.",
+  "Every printer in your printer list in one file, each with its own settings and dashboard layouts. Restore it with Restore from file.": "프린터 목록의 모든 프린터를 하나의 파일에 담습니다. 각 프린터의 설정과 대시보드 레이아웃이 포함됩니다. '파일에서 복원'으로 복원하세요.",
+  "Back up all printers": "모든 프린터 백업",
+  "Could not reach: {list}": "연결할 수 없음: {list}",
+  "Printers restored: {n}": "복원된 프린터: {n}",
+  "Restore all printers?": "모든 프린터를 복원할까요?",
+  "Printers in {name}:": "{name}의 프린터:",
+  "not in your printer list": "프린터 목록에 없음",
+  "Each printer gets back its own settings and layouts. Its current settings are kept so you can go back on it.": "각 프린터에 고유한 설정과 레이아웃이 복원됩니다. 현재 설정은 보관되므로 되돌릴 수 있습니다.",
 }

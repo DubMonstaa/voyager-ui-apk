@@ -2683,5 +2683,13 @@
   "Hue and lightness",
   "Previous colour",
   "New colour",
-  "Pick from screen"
+  "Pick from screen",
+  "Every printer in your printer list in one file, each with its own settings and dashboard layouts. Restore it with Restore from file.",
+  "Back up all printers",
+  "Could not reach: {list}",
+  "Printers restored: {n}",
+  "Restore all printers?",
+  "Printers in {name}:",
+  "not in your printer list",
+  "Each printer gets back its own settings and layouts. Its current settings are kept so you can go back on it."
 ]

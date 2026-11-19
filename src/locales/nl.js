@@ -2693,4 +2693,12 @@ export default {
   "Print info size (under the clock)": "Grootte printinfo (onder de klok)",
   "Own dashboard layout": "Eigen dashboard-indeling",
   "This device arranges the dashboard cards its own way, for example a tablet next to the printer. Other browsers keep the shared layout. Only this browser.": "Dit apparaat ordent de dashboardkaarten op zijn eigen manier, bijvoorbeeld een tablet naast de printer. Andere browsers houden de gedeelde indeling. Alleen deze browser.",
+  "Every printer in your printer list in one file, each with its own settings and dashboard layouts. Restore it with Restore from file.": "Alle printers uit je printerlijst in één bestand, elk met eigen instellingen en dashboardindelingen. Herstel het met 'Herstellen vanuit bestand'.",
+  "Back up all printers": "Alle printers back-uppen",
+  "Could not reach: {list}": "Niet bereikbaar: {list}",
+  "Printers restored: {n}": "Printers hersteld: {n}",
+  "Restore all printers?": "Alle printers herstellen?",
+  "Printers in {name}:": "Printers in {name}:",
+  "not in your printer list": "niet in je printerlijst",
+  "Each printer gets back its own settings and layouts. Its current settings are kept so you can go back on it.": "Elke printer krijgt zijn eigen instellingen en indelingen terug. De huidige instellingen worden bewaard, zodat je op die printer terug kunt.",
 }

@@ -2693,4 +2693,12 @@ export default {
   "Print info size (under the clock)": "Taille des infos d’impression (sous l’horloge)",
   "Own dashboard layout": "Disposition propre du tableau de bord",
   "This device arranges the dashboard cards its own way, for example a tablet next to the printer. Other browsers keep the shared layout. Only this browser.": "Cet appareil organise les cartes du tableau de bord à sa façon, par exemple une tablette à côté de l'imprimante. Les autres navigateurs gardent la disposition partagée. Ce navigateur uniquement.",
+  "Every printer in your printer list in one file, each with its own settings and dashboard layouts. Restore it with Restore from file.": "Toutes les imprimantes de votre liste dans un seul fichier, chacune avec ses propres réglages et dispositions du tableau de bord. Restaurez-le avec « Restaurer depuis un fichier ».",
+  "Back up all printers": "Sauvegarder toutes les imprimantes",
+  "Could not reach: {list}": "Injoignable : {list}",
+  "Printers restored: {n}": "Imprimantes restaurées : {n}",
+  "Restore all printers?": "Restaurer toutes les imprimantes ?",
+  "Printers in {name}:": "Imprimantes dans {name} :",
+  "not in your printer list": "absente de votre liste d'imprimantes",
+  "Each printer gets back its own settings and layouts. Its current settings are kept so you can go back on it.": "Chaque imprimante retrouve ses propres réglages et dispositions. Ses réglages actuels sont conservés pour pouvoir y revenir.",
 }

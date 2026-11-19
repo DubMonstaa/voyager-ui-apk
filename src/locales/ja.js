@@ -2693,4 +2693,12 @@ export default {
   "Print info size (under the clock)": "印刷情報のサイズ（時計の下）",
   "Own dashboard layout": "この端末専用のダッシュボード配置",
   "This device arranges the dashboard cards its own way, for example a tablet next to the printer. Other browsers keep the shared layout. Only this browser.": "この端末はダッシュボードのカードを独自に配置します（例：プリンター横のタブレット）。他のブラウザは共有の配置を使います。このブラウザのみ。",
+  "Every printer in your printer list in one file, each with its own settings and dashboard layouts. Restore it with Restore from file.": "プリンターリストのすべてのプリンターを1つのファイルに。それぞれ独自の設定とダッシュボードレイアウトを含みます。「ファイルから復元」で復元します。",
+  "Back up all printers": "すべてのプリンターをバックアップ",
+  "Could not reach: {list}": "接続できません: {list}",
+  "Printers restored: {n}": "復元したプリンター: {n}",
+  "Restore all printers?": "すべてのプリンターを復元しますか？",
+  "Printers in {name}:": "{name} のプリンター:",
+  "not in your printer list": "プリンターリストにありません",
+  "Each printer gets back its own settings and layouts. Its current settings are kept so you can go back on it.": "各プリンターに独自の設定とレイアウトが戻ります。現在の設定は保持されるため、元に戻すことができます。",
 }

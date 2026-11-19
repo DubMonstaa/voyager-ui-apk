@@ -2693,4 +2693,12 @@ export default {
   "Print info size (under the clock)": "打印信息大小（时钟下方）",
   "Own dashboard layout": "本设备专用仪表盘布局",
   "This device arranges the dashboard cards its own way, for example a tablet next to the printer. Other browsers keep the shared layout. Only this browser.": "此设备以自己的方式排列仪表盘卡片，例如打印机旁的平板。其他浏览器保留共享布局。仅此浏览器。",
+  "Every printer in your printer list in one file, each with its own settings and dashboard layouts. Restore it with Restore from file.": "打印机列表中的所有打印机保存在一个文件中，每台都包含各自的设置和仪表板布局。使用“从文件恢复”来恢复。",
+  "Back up all printers": "备份所有打印机",
+  "Could not reach: {list}": "无法连接：{list}",
+  "Printers restored: {n}": "已恢复的打印机：{n}",
+  "Restore all printers?": "恢复所有打印机？",
+  "Printers in {name}:": "{name} 中的打印机：",
+  "not in your printer list": "不在打印机列表中",
+  "Each printer gets back its own settings and layouts. Its current settings are kept so you can go back on it.": "每台打印机都会恢复自己的设置和布局。当前设置会被保留，以便在该打印机上还原。",
 }

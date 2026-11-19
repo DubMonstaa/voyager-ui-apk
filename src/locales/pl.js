@@ -2693,4 +2693,12 @@ export default {
   "Print info size (under the clock)": "Rozmiar informacji o wydruku (pod zegarem)",
   "Own dashboard layout": "Własny układ pulpitu",
   "This device arranges the dashboard cards its own way, for example a tablet next to the printer. Other browsers keep the shared layout. Only this browser.": "To urządzenie układa karty pulpitu po swojemu, na przykład tablet obok drukarki. Inne przeglądarki zachowują wspólny układ. Tylko ta przeglądarka.",
+  "Every printer in your printer list in one file, each with its own settings and dashboard layouts. Restore it with Restore from file.": "Wszystkie drukarki z listy w jednym pliku, każda z własnymi ustawieniami i układami pulpitu. Przywróć go przyciskiem „Przywróć z pliku”.",
+  "Back up all printers": "Kopia wszystkich drukarek",
+  "Could not reach: {list}": "Brak połączenia: {list}",
+  "Printers restored: {n}": "Przywrócone drukarki: {n}",
+  "Restore all printers?": "Przywrócić wszystkie drukarki?",
+  "Printers in {name}:": "Drukarki w {name}:",
+  "not in your printer list": "nie ma na liście drukarek",
+  "Each printer gets back its own settings and layouts. Its current settings are kept so you can go back on it.": "Każda drukarka odzyskuje własne ustawienia i układy. Jej obecne ustawienia zostają zachowane, więc możesz do nich wrócić.",
 }

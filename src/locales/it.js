@@ -2693,4 +2693,12 @@ export default {
   "Print info size (under the clock)": "Dimensione info di stampa (sotto l’orologio)",
   "Own dashboard layout": "Layout della dashboard proprio",
   "This device arranges the dashboard cards its own way, for example a tablet next to the printer. Other browsers keep the shared layout. Only this browser.": "Questo dispositivo dispone le schede della dashboard a modo suo, ad esempio un tablet accanto alla stampante. Gli altri browser mantengono il layout condiviso. Solo questo browser.",
+  "Every printer in your printer list in one file, each with its own settings and dashboard layouts. Restore it with Restore from file.": "Tutte le stampanti del tuo elenco in un unico file, ciascuna con le proprie impostazioni e i propri layout della dashboard. Ripristinalo con «Ripristina da file».",
+  "Back up all printers": "Backup di tutte le stampanti",
+  "Could not reach: {list}": "Non raggiungibili: {list}",
+  "Printers restored: {n}": "Stampanti ripristinate: {n}",
+  "Restore all printers?": "Ripristinare tutte le stampanti?",
+  "Printers in {name}:": "Stampanti in {name}:",
+  "not in your printer list": "non nel tuo elenco stampanti",
+  "Each printer gets back its own settings and layouts. Its current settings are kept so you can go back on it.": "Ogni stampante riceve le proprie impostazioni e i propri layout. Le impostazioni attuali vengono conservate per poter tornare indietro.",
 }
